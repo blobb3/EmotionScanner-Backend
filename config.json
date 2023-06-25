@@ -1,0 +1,27 @@
+{
+    "architectures": [
+        "mobilenetForImageClassification"
+    ],
+    "num_channels": 7,
+    "model_type": "mobilenet",
+    "downsample_in_first_stage": false,
+    "id2label": {
+        "0": "Anger",
+        "1": "Disgust",
+        "2": "Fear",
+        "3": "Happiness",
+        "4": "Neutral",
+        "5": "Sadness",
+        "6": "Surprise"
+    },
+    "label2id": {
+        "Anger": 0,
+        "Disgust": 1,
+        "Fear": 2,
+        "Happiness": 3,
+        "Neutral": 4,
+        "Sadness": 5,
+        "Surprise": 6
+    },
+    "transformers_version": "4.11.3.dev0"
+}
