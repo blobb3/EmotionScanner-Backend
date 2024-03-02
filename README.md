@@ -1,6 +1,6 @@
 ## EmotionScanner-Backend
 
-Welcome to the EmotionScanner-Backend Repository, an integral part of my thesis project developed during my academic studies. This backend system is designed for an advanced emotion recognition application that uses machine learning and image processing to classify facial expressions into specific emotions.
+Welcome to the EmotionScanner-Backend Repository, an integral part of my semester project developed during my academic studies. This backend system is designed for an advanced emotion recognition application that uses machine learning and image processing to classify facial expressions into specific emotions.
 
 ### Key Features
 
